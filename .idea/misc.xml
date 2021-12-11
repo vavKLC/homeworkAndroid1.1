@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/Lesson1android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/Lesson1android/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/Lesson1android/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.2635416666666667" />
+        <entry key="..\:/Users/Guest/AndroidStudioProjects/Lesson1android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2635416666666667" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/Lesson1android/app/src/main/res/drawable/lock.xml" value="0.24722222222222223" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/Lesson1android/app/src/main/res/drawable/oval.xml" value="0.24722222222222223" />
         <entry key="..\:/Users/Guest/AndroidStudioProjects/Lesson1android/app/src/main/res/drawable/person.xml" value="0.2635416666666667" />
